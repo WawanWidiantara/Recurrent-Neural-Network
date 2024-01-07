@@ -1,0 +1,27 @@
+------- 1 ------- rnn_20_epochs_rmsprop_32_batchsize_2_layer_GRU
+{'mae': 33.403637, 
+ 'mse': 1986.0046,
+ 'rmse': 44.56461,
+ 'mape': 2.5913737,
+ 'mase': 0.7159582}
+
+------- 2 -------- rnn_20_epochs_rmsprop_32_batchsize_5_layer_GRU ######## WINNER ########
+{'mae': 25.71537,
+ 'mse': 1198.342,
+ 'rmse': 34.617077,
+ 'mape': 1.9990805,
+ 'mase': 0.5511714}
+
+------- 3 -------- rnn_20_epochs_rmsprop_64_batchsize_2_layer_GRU
+{'mae': 30.990253,
+ 'mse': 1749.6841,
+ 'rmse': 41.829224,
+ 'mape': 2.4172847,
+ 'mase': 0.6642308}
+
+------- 4 -------- rnn_20_epochs_rmsprop_64_batchsize_5_layer_GRU
+{'mae': 26.744564,
+ 'mse': 1265.7279,
+ 'rmse': 35.57707,
+ 'mape': 2.1013904,
+ 'mase': 0.5732307}
